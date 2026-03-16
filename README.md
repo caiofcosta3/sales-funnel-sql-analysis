@@ -66,20 +66,24 @@ The SQL queries used for the analysis are organized in the `SQL` folder:
 
 ---
 
-# Project Structure
+## Project Structure
 
+The repository is organized as follows:
+
+```
 sales-funnel-sql-analysis
 │
-├── Dashboard
-│ ├── Projeto1_Dashboard_vendas.xlsx
-│ └── dashboard_preview.png
+├── 📁 Dashboard
+│   ├── Projeto1_Dashboard_vendas.xlsx
+│   └── dashboard_preview.png
 │
-└── SQL
-├── 01_monthly_funnel.sql
-├── 02_top_states.sql
-├── 03_top_brands.sql
-├── 04_top_stores.sql
-└── 05_weekday_visits.sql
+└── 📁 SQL
+    ├── 01_monthly_funnel.sql
+    ├── 02_top_states.sql
+    ├── 03_top_brands.sql
+    ├── 04_top_stores.sql
+    └── 05_weekday_visits.sql
+```
 
 
 ---
